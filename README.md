@@ -1,18 +1,31 @@
-AUTOLIB DATA ANALYSIS
+## AUTOLIB DATA ANALYSIS
+
 This is a project done on google Collab to understand electric car usage over time.
 
-By Tina Mulu
-Set up requirements for you to get started started you need to load the following data sets into google Collaboratory notebook.
+## By Tina Mulu
 
-http://bit.ly/autolib_dataset
-Technology used
-The programming language used is python. libraries incorporated are Pandas and NumPy.
+Set up requirements
+for you to get started started you need to load the following data sets into google Collaboratory notebook. 
 
-Contributing
-feel free to modify any code below when appropriate
+1. http://bit.ly/autolib_dataset
 
-Support and details
+
+
+
+
+## Technology used
+ 
+The programming language used is python. libraries incorporated are Pandas and NumPy. 
+
+
+
+
+## Contributing
+ feel free to modify any code below when appropriate
+
+## Support and details
 Incase of any questions contact tinamulu308@gmail.com
 
-License
-MIT License Copyright (c) 2021 Tina Mulu
+## License
+MIT
+License Copyright (c) 2021 Tina Mulu
